@@ -1,0 +1,5 @@
+
+
+This is a simple project where there are set of simple commands using which we can gets the news stored
+in the database.The news is also not real time.The only purpose of this project was to understand the basic 
+use of sevlet,jsp,html,css and javascript for development of a web project using java.
